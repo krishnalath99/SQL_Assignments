@@ -1,6 +1,6 @@
 # **SQL Assignments**     
 
-## **TechShop an Electronic Gadgets Shop **    
+## **TechShop an Electronic Gadgets Shop**    
 
 In this assignment, I have worked with a simplified TechShop (SIS) database. This database contains information about customers, products, orders, order details, amd inventory. There are various SQL operations performed on this database to retrieve and manipulate data.     
 
